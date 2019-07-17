@@ -1,5 +1,11 @@
 # TradingBrainWinX64
- TradingBrainWinX64 Debug Directory
-
+ TradingBrainWinX64 Debug Directory. Ready to be ran.
+ 
 # Introduction
- This program is used for predicting Stock market and Foreign Exchange market prices using historical values.
+The TradingBrain module uses pattern a ML.NET pattern recogintion formula to predict the daily percent changes of the next day.
+Simply by shifting the known value of percent change a day back a prediction model can be generated for predicting the price for the current day.
+
+# R Dependencies
+
+# Support and Development
+OpenWeasel.com has more development notes and details for anyone interested.
