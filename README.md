@@ -1,5 +1,8 @@
 # TradingBrainWinX64
- TradingBrainWinX64 Debug Directory. Ready to be ran.
+ TradingBrainWinX64 Debug Directory.
+ 
+# System Build Specs
+Built to be used on Windows 10 64Bit
  
 # Introduction
 The TradingBrain module uses pattern a ML.NET pattern recogintion formula to predict the daily percent changes of the next day.
@@ -20,6 +23,12 @@ Click Run Calculation. A bar graph will pop up showing the probability of each p
 # R Packages & Dependencies
 Install these R Packages & Dependecies
 gtable, scales, lazyeval, plyr, rlang, tibble, withr, stringr, lubridate, PerformanceAnalystics, tidyquant
+
+# Notable Technology Used
+R
+C#
+ML.NET
+Batch Scripting
 
 # Support and Development
 OpenWeasel.com has more development notes and details for anyone interested.
