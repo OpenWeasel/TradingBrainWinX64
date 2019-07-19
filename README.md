@@ -32,3 +32,9 @@ Batch Scripting
 
 # Support and Development
 OpenWeasel.com has more development notes and details for anyone interested.
+
+# Disclaimer
+Use at your own risk. Program in current stage of Development isn't ready to be used in fully automated trading just yet.
+
+# Created By
+James Houston (maverick)
